@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+.languages {
+  background: url(../img/language_background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.lang-icon, .topic-icon{
+	width: 100px;
+}
+
+.kannada {
+	background: url(../img/topics_background.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}

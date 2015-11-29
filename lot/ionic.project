@@ -1,0 +1,9 @@
+{
+  "name": "lot",
+  "app_id": "",
+  "proxies": [
+	{
+	  "path": "/trig",
+	  "proxyUrl": "http://cors.api.com/trig"
+	}
+}
