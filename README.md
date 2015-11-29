@@ -1,4 +1,4 @@
-# AgastyaInternationalFoundation-girish
+# Agastya International Foundation
 
 ## Steps to implement Method 1(Simple and Recommended):
 1. Install Dolphin browser, make it default and uninstall other browsers on the device.
